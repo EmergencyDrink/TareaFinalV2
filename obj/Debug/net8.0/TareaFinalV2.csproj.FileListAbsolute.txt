@@ -1,0 +1,14 @@
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\bin\Debug\net8.0\TareaFinalV2.exe
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\bin\Debug\net8.0\TareaFinalV2.deps.json
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\bin\Debug\net8.0\TareaFinalV2.runtimeconfig.json
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\bin\Debug\net8.0\TareaFinalV2.dll
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\bin\Debug\net8.0\TareaFinalV2.pdb
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.AssemblyInfo.cs
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.dll
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\refint\TareaFinalV2.dll
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.pdb
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\TareaFinalV2.genruntimeconfig.cache
+C:\Users\Andy\source\repos\TareaFinalV2\TareaFinalV2\obj\Debug\net8.0\ref\TareaFinalV2.dll
